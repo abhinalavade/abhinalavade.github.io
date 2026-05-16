@@ -1,2 +1,0 @@
-google.com, ca-app-pub-3281548427000733~5769926913, DIRECT, f08c47fec0942fa0
-tappx.com, ra5c1b48c, DIRECT, 9f375a07da0318ec
