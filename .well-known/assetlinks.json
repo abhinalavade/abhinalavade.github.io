@@ -1,1 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "vill.ware.lifewithgodstasks",
+      "sha256_cert_fingerprints": [
+        "7C:4D:57:E7:14:18:59:75:C5:B7:B3:8B:BE:ED:5E:C6:BF:5B:EF:60:77:09:91:23:19:DF:83:C4:73:C3:32:FE"
+      ]
+    }
+  }
+]
 
